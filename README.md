@@ -1,4 +1,4 @@
-# Algerian Forest Fires Data Cleaning and EDA
+# Ridge, Lasso Regression Part 1
 
 This repository guides you through the process of data cleaning and exploratory data analysis (EDA) for the Algerian Forest Fires Dataset. Understand the dataset, clean the data, and gain insights through visualizations.
 
@@ -8,23 +8,16 @@ The Algerian Forest Fires Dataset contains information about forest fires in Alg
 
 ## Contents
 
-- `data_cleaning_and_eda.ipynb`: Jupyter Notebook detailing the data cleaning and EDA process.
+- `Ridge, Lasso Regression.ipynb`: Jupyter Notebook detailing the data cleaning and EDA process.
 - `algerian_forest_fires.csv`: The dataset used for analysis.
-- `requirements.txt`: Python dependencies.
-
+- 
 ## Getting Started
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/algerian-forest-fires-analysis.git
-    cd algerian-forest-fires-analysis
-    ```
-
-2. Install the dependencies:
-
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/your-username/Ridge, Lasso Regression.git
+    cd Ridge, Lasso Regression
     ```
 
 3. Open and run the `data_cleaning_and_eda.ipynb` notebook using Jupyter or your preferred environment.
