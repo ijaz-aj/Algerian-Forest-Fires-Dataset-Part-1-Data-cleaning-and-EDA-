@@ -10,7 +10,7 @@ The Algerian Forest Fires Dataset contains information about forest fires in Alg
 
 - `Ridge, Lasso Regression.ipynb`: Jupyter Notebook detailing the data cleaning and EDA process.
 - `algerian_forest_fires.csv`: The dataset used for analysis.
-- 
+  
 ## Getting Started
 
 1. Clone the repository:
